@@ -36,6 +36,7 @@ I love building **amazing websites** and teaching **technology concepts** to emp
 
 ## 🚀 Featured Projects  
 🔹 [**Exam Buddy (Moodle Plugin)**](https://youtu.be/knAOqujIAEo)  
+🔹 [**Recipe Buddy **](https://www.recipebuddy.site) 
 🔹 [**Recipe Generator**](https://nadeesha17.github.io/recipe_generator/)  
 
 🛠️ *Explore more projects in my [GitHub Repositories](https://github.com/Nadeesha17?tab=repositories)*
