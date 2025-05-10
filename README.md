@@ -42,10 +42,10 @@ I love building **amazing websites** and teaching **technology concepts** to emp
 🛠️ *Explore more projects in my [GitHub Repositories](https://github.com/Nadeesha17?tab=repositories)*
 
 ## **🎓 Education**
--  **M.Sc. in IT in Education** – University of Kelaniya (2022-2024)  
+-  **M.Sc. in IT in Education** – University of Kelaniya (2022-2024) completed with 3.89 GPA 21 A grades and 2 B grades
 -  **Postgraduate Diploma in Education** – SLIIT (2021-2023)  
 -  **B.Sc. in IT** – SLIIT (2009-2013)  
----
+--- 
 
 
 ## 📬 Connect with Me  
