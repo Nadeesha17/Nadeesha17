@@ -1,5 +1,5 @@
 <!-- GitHub Profile Banner -->
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGKYxbtsmjubQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739108428208?e=1746057600&v=beta&t=W0Wkxa-qEdmeaa8EGskxrmqLvlF9EZQDME_oCYyUsp0" alt="GitHub Profile Banner" width="80%" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGKYxbtsmjubQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739108428208?e=1746057600&v=beta&t=W0Wkxa-qEdmeaa8EGskxrmqLvlF9EZQDME_oCYyUsp0" alt="GitHub Profile Banner" width="100%" />
 
 
 # 👋 Hello, I'm Nadeesha Illamperuma! 
